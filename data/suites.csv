@@ -1,4 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","2118","User can add todos, toggle them, filter by status, and clear completed items","firefox","2026-04-27","passed","2026-04-27","","todo.spec.ts","",""
-"","9614","User can add todos, toggle them, filter by status, and clear completed items","webkit","2026-04-27","passed","2026-04-27","","todo.spec.ts","",""
-"","1202","User can add todos, toggle them, filter by status, and clear completed items","chromium","2026-04-27","passed","2026-04-27","","todo.spec.ts","",""
+"","2299","User can add todos, toggle them, filter by status, and clear completed items","firefox","2026-04-27","passed","2026-04-27","","todo.spec.ts","",""
+"","990","User can add todos, toggle them, filter by status, and clear completed items","chromium","2026-04-27","passed","2026-04-27","","todo.spec.ts","",""
+"","7825","User can add todos, toggle them, filter by status, and clear completed items","webkit","2026-04-27","passed","2026-04-27","","todo.spec.ts","",""
