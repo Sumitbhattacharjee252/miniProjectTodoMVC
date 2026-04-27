@@ -6,6 +6,11 @@ on:
   pull_request:
     branches: [main, master, develop]
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 jobs:
   test:
     timeout-minutes: 60
@@ -64,6 +69,9 @@ jobs:
     if: always()
     needs: test
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
